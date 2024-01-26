@@ -1,6 +1,6 @@
 {
   "name": "Offset Labs Default",
-  "timestamp": "2024-01-16T16:32:29.403Z",
+  "timestamp": "2024-01-26T11:07:03.511Z",
   "version": {
     "major": 11,
     "minor": 11,
@@ -640,7 +640,14 @@
       "name": "Big Time",
       "symbol": "BIGTIME",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+      "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x63400d9586873eB03c84F76755D26Ef2a9a2abeF"
+          }
+        }
+      }
     },
     {
       "chainId": 1,
@@ -2184,14 +2191,7 @@
       "symbol": "LOOM",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3"
-          }
-        }
-      }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
     },
     {
       "chainId": 1,
@@ -6599,6 +6599,21 @@
     },
     {
       "chainId": 137,
+      "address": "0x63400d9586873eB03c84F76755D26Ef2a9a2abeF",
+      "name": "Big Time",
+      "symbol": "BIGTIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x438B28C5AA5F00a817b7Def7cE2Fb3d5d1970974",
       "name": "Bluzelle",
       "symbol": "BLZ",
@@ -7533,14 +7548,7 @@
       "symbol": "LOOM",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
-          }
-        }
-      }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
     },
     {
       "chainId": 137,
@@ -11947,7 +11955,7 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0x980b62da83eff3d4576c647993b0c1d7faf17c73",
+      "address": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 421614,

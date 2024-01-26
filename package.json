@@ -1,32 +1,32 @@
 {
-  "name": "@uniswap/default-token-list",
+  "name": "@offsetcarbon/default-token-list",
   "version": "11.11.0",
-  "description": "The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "description": "The Offset default token list",
+  "main": "build/offset-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/offset-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/offset-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/offset-labs/default-token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "offset",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Offset Labs",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/offset-labs/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/offset-labs/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-list-bridge-utils": "^2.2.0",
