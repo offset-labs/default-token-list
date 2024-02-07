@@ -1,6 +1,6 @@
 {
   "name": "@offsetcarbon/default-token-list",
-  "version": "9.5.0",
+  "version": "9.5.1",
   "description": "The OffsetCarbon default token list",
   "main": "build/offsetcarbon-default.tokenlist.json",
   "scripts": {

@@ -1,18 +1,26 @@
 {
   "name": "OffsetCarbon Default",
-  "timestamp": "2024-02-01T10:08:53.390Z",
+  "timestamp": "2024-02-07T13:02:30.385Z",
   "version": {
     "major": 9,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/offset-labs/default-token-list/master/src/img/OffsetLogo.png",
+  "logoURI": "https://raw.githubusercontent.com/offset-labs/default-token-list/fork/src/img/OffsetLogo.png",
   "keywords": [
     "offsetcarbon",
     "default"
   ],
   "tokens": [
+    {
+      "name": "DAI",
+      "address": "0x9bc8388dD439fa3365B1F78A81242aDBB4677759",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 421614,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
     {
       "name": "USD Coin",
       "address": "0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d",
