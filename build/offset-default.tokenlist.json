@@ -1,10 +1,10 @@
 {
   "name": "Offset Labs Default",
-  "timestamp": "2024-01-26T11:07:03.511Z",
+  "timestamp": "2024-02-15T12:13:32.073Z",
   "version": {
     "major": 11,
     "minor": 11,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -235,9 +235,6 @@
           },
           "42161": {
             "tokenAddress": "0xeF6124368c0B56556667e0de77eA008DfC0a71d1"
-          },
-          "84531": {
-            "tokenAddress": "0xC6729C6cFc6B872acF641EB3EA628C9F038e5ABb"
           }
         }
       }
@@ -828,9 +825,6 @@
           },
           "42161": {
             "tokenAddress": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f"
-          },
-          "84531": {
-            "tokenAddress": "0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950"
           }
         }
       }
@@ -942,9 +936,6 @@
           },
           "43114": {
             "tokenAddress": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437"
-          },
-          "84531": {
-            "tokenAddress": "0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796"
           }
         }
       }
@@ -1166,9 +1157,6 @@
           },
           "43114": {
             "tokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
-          },
-          "84531": {
-            "tokenAddress": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C"
           }
         }
       }
@@ -2191,7 +2179,14 @@
       "symbol": "LOOM",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3"
+          }
+        }
+      }
     },
     {
       "chainId": 1,
@@ -2965,9 +2960,6 @@
           },
           "42161": {
             "tokenAddress": "0x8d8e1b6ffc6832E8D2eF0DE8a3d957cAE7ac5067"
-          },
-          "84531": {
-            "tokenAddress": "0x121dAEb77cFbC6a9CfC691Da4F5E97c8Bd02518F"
           }
         }
       }
@@ -2983,6 +2975,9 @@
         "bridgeInfo": {
           "137": {
             "tokenAddress": "0x82FFdFD1d8699E8886a4e77CeFA9dd9710a7FefD"
+          },
+          "8453": {
+            "tokenAddress": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b"
           }
         }
       }
@@ -3450,9 +3445,6 @@
           },
           "43114": {
             "tokenAddress": "0xBeC243C995409E6520D7C41E404da5dEba4b209B"
-          },
-          "84531": {
-            "tokenAddress": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC"
           }
         }
       }
@@ -3755,9 +3747,6 @@
           },
           "42161": {
             "tokenAddress": "0x7E2a1eDeE171C5B19E6c54D73752396C0A572594"
-          },
-          "84531": {
-            "tokenAddress": "0x783349cd20f26CE12e747b1a17bC38D252c9e119"
           }
         }
       }
@@ -4009,9 +3998,6 @@
           },
           "43114": {
             "tokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
-          },
-          "84531": {
-            "tokenAddress": "0xF175520C52418dfE19C8098071a252da48Cd1C19"
           }
         }
       }
@@ -4033,9 +4019,6 @@
           },
           "137": {
             "tokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
-          },
-          "42161": {
-            "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
           },
           "43114": {
             "tokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
@@ -4065,9 +4048,6 @@
           },
           "42161": {
             "tokenAddress": "0x1c8Ec4DE3c2BFD3050695D89853EC6d78AE650bb"
-          },
-          "84531": {
-            "tokenAddress": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125"
           }
         }
       }
@@ -4140,9 +4120,6 @@
           },
           "43114": {
             "tokenAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
-          },
-          "84531": {
-            "tokenAddress": "0x4200000000000000000000000000000000000006"
           }
         }
       }
@@ -7548,7 +7525,14 @@
       "symbol": "LOOM",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+          }
+        }
+      }
     },
     {
       "chainId": 137,
@@ -8956,6 +8940,21 @@
     },
     {
       "chainId": 8453,
+      "address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+      "name": "Propy",
+      "symbol": "PRO",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/869/thumb/propy.png?1548332100",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x226bb599a12C826476e3A771454697EA52E9E220"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 8453,
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "name": "Seamlesss",
       "symbol": "SEAM",
@@ -9946,14 +9945,6 @@
       }
     },
     {
-      "name": "GMX",
-      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
-      "symbol": "GMX",
-      "decimals": 18,
-      "chainId": 42161,
-      "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
-    },
-    {
       "name": "Gnosis Token",
       "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
       "symbol": "GNO",
@@ -10192,14 +10183,6 @@
           }
         }
       }
-    },
-    {
-      "name": "MAGIC",
-      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
-      "symbol": "MAGIC",
-      "decimals": 18,
-      "chainId": 42161,
-      "logoURI": "https://dynamic-assets.coinbase.com/30320a63f6038b944c9c0202fcb2392e6a1bd333814f74b4674774dd87f2d06d64fdd74c2f1ab4639917c75b749c323450408bec7a2737af8ae0c17871aa90de/asset_icons/98d278cda11639ed7449a0a3086cd2c83937ce71baf4ee43bb5b777423c00a75.png"
     },
     {
       "chainId": 42161,
@@ -11012,6 +10995,14 @@
       }
     },
     {
+      "name": "Test Biochar 2023",
+      "address": "0x55fda9e7c35567df8637e230599f28a8c54deaa0",
+      "symbol": "TS-BC-2023",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+    },
+    {
       "name": "UMA Voting Token v1",
       "address": "0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22",
       "symbol": "UMA",
@@ -11042,8 +11033,8 @@
       }
     },
     {
-      "name": "USDCoin",
-      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "name": "USDC",
+      "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 42161,
@@ -11052,29 +11043,6 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-          }
-        }
-      }
-    },
-    {
-      "name": "Bridged USDC",
-      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "chainId": 42161,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 42161,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
           }
         }
       }
@@ -11794,156 +11762,6 @@
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
-    },
-    {
-      "chainId": 84531,
-      "address": "0xC6729C6cFc6B872acF641EB3EA628C9F038e5ABb",
-      "name": "Alethea Artificial Liquid Intelligence",
-      "symbol": "ALI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 84531,
-      "address": "0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950",
-      "name": "Coinbase Wrapped Staked ETH",
-      "symbol": "cbETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704"
-          }
-        }
-      }
-    },
-    {
-      "name": "Compound",
-      "address": "0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796",
-      "symbol": "COMP",
-      "decimals": 18,
-      "chainId": 84531,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
-          }
-        }
-      }
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 84531,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 84531,
-      "address": "0x121dAEb77cFbC6a9CfC691Da4F5E97c8Bd02518F",
-      "name": "Prime",
-      "symbol": "PRIME",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF"
-          }
-        }
-      }
-    },
-    {
-      "name": "Synthetix Network Token",
-      "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
-      "symbol": "SNX",
-      "decimals": 18,
-      "chainId": 84531,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 84531,
-      "address": "0x783349cd20f26CE12e747b1a17bC38D252c9e119",
-      "name": "tBTC",
-      "symbol": "tBTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88"
-          }
-        }
-      }
-    },
-    {
-      "name": "USDCoin",
-      "address": "0xF175520C52418dfE19C8098071a252da48Cd1C19",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 84531,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 84531,
-      "name": "Wrapped Ampleforth",
-      "symbol": "WAMPL",
-      "logoURI": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951",
-      "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef"
-          }
-        }
-      }
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 84531,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-          }
-        }
-      }
     },
     {
       "name": "USD Coin",
